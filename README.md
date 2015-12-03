@@ -25,3 +25,5 @@ npm hello world module
 
 In lieu of a formal style guide, take care to maintain the existing coding style. 
 Add unit tests for any new or changed functionality. Lint and test your code.
+
+[![Build Status](https://travis-ci.org/pateatlau/npm-hello-pat.svg)](https://travis-ci.org/pateatlau/npm-hello-pat)
