@@ -1,0 +1,27 @@
+{
+  "name": "npm-hello",
+  "version": "0.0.1",
+  "description": "Hello World npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pateatlau/npm-hello.git"
+  },
+  "keywords": [
+    "npm",
+    "module"
+  ],
+  "author": "“Laldingliana Tlau Vantawl\" <pateatlau@gmail.com> (http://lalding.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pateatlau/npm-hello/issues"
+  },
+  "homepage": "https://github.com/pateatlau/npm-hello#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
