@@ -1,5 +1,5 @@
 {
-  "name": "npm-hello",
+  "name": "npm-hello-pat",
   "version": "0.0.1",
   "description": "Hello World npm package",
   "main": "index.js",
@@ -17,9 +17,9 @@
   "author": "“Laldingliana Tlau Vantawl\" <pateatlau@gmail.com> (http://lalding.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pateatlau/npm-hello/issues"
+    "url": "https://github.com/pateatlau/npm-hello-pat/issues"
   },
-  "homepage": "https://github.com/pateatlau/npm-hello#readme",
+  "homepage": "https://github.com/pateatlau/npm-hello-pat#readme",
   "devDependencies": {
     "chai": "^3.4.1",
     "mocha": "^2.3.4"
