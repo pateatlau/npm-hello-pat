@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/pateatlau/npm-hello-pat.svg)](https://travis-ci.org/pateatlau/npm-hello-pat)
+
 Hello World NPM Module
 =========
 
