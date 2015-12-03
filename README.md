@@ -1,4 +1,4 @@
-Number Formatter
+Hello World NPM Module
 =========
 
 npm hello world module
