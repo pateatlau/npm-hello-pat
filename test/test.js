@@ -8,4 +8,8 @@ describe('#hello-world-pat', function() {
         var result = hello('world');
         expect(result).to.equal('Hello, world!');
     });
+    it('should return a "hello, world!" message is no argument is given', function() {
+        var result = hello();
+        expect(result).to.equal('Hello, world!');
+    });
 });

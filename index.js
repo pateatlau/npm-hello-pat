@@ -6,5 +6,6 @@
  * @return {string}
  */
 module.exports = function(msg) {
+    msg = msg || 'world';
     return 'Hello, ' + msg + '!';
 };
